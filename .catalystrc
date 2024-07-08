@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "7309000000034001",
+      "name": "Resume",
+      "domain": {
+        "id": "50021278095",
+        "name": "resume-60029356589.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60029356589",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
